@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=APC1_Wireless.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=APC1_Wireless.SchDoc|Designator=GPS|SchDesignator=GPS|FileName=GPS.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=GPS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=APC1_Wireless.SchDoc|Designator=LoRa|SchDesignator=LoRa|FileName=LoRa.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=LoRa.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=APC1_Wireless.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=APC1_Wireless.SchDoc|Designator=Memory|SchDesignator=Memory|FileName=Memory.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

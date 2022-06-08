@@ -1,0 +1,3 @@
+../Drivers/QMC5883L/QMC5883L_port.c:6:6:_QMC5883L_Reg_Write	32	static
+../Drivers/QMC5883L/QMC5883L_port.c:11:9:_QMC5883L_Reg_Read	40	static
+../Drivers/QMC5883L/QMC5883L_port.c:20:6:_QMC5883L_Delay	16	static

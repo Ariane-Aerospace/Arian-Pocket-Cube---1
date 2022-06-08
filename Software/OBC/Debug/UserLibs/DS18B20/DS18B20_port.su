@@ -1,0 +1,4 @@
+../UserLibs/DS18B20/DS18B20_port.c:7:9:DS18_USER_GPIO_HIZ_IN	8	static
+../UserLibs/DS18B20/DS18B20_port.c:11:6:DS18_USER_GPIO_ToGround	8	static
+../UserLibs/DS18B20/DS18B20_port.c:14:6:DS18_USER_DelayMicroSec	16	static
+../UserLibs/DS18B20/DS18B20_port.c:18:6:DS18_USER_SysInit	32	static

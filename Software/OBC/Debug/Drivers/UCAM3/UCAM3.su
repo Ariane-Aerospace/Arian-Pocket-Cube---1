@@ -1,0 +1,5 @@
+../Drivers/UCAM3/UCAM3.c:6:6:UCAM3_Init	8	static
+../Drivers/UCAM3/UCAM3.c:21:6:ResetCam	4	static
+../Drivers/UCAM3/UCAM3.c:43:6:UCAM3_InitPort	24	static
+../Drivers/UCAM3/UCAM3.c:63:6:UCAM3_Sync	40	static
+../Drivers/UCAM3/UCAM3.c:91:6:GetPucture	312	dynamic

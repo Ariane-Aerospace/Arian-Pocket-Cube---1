@@ -1,0 +1,5 @@
+../Drivers/MS_RADIO/MSR.c:4:6:MSR_Init	4	static
+../Drivers/MS_RADIO/MSR.c:8:6:MSR_CS_Prepare	8	static
+../Drivers/MS_RADIO/MSR.c:12:6:MSR_SendData	56	static
+../Drivers/MS_RADIO/MSR.c:22:6:MSR_GetData	16	static
+../Drivers/MS_RADIO/MSR.c:26:6:MSR_GetGPS	4	static

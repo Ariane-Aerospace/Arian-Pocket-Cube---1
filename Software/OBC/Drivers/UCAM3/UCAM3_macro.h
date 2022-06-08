@@ -1,0 +1,6 @@
+#ifndef UCAM3_UCAM3_MACRO_H_
+#define UCAM3_UCAM3_MACRO_H_
+
+
+
+#endif /* UCAM3_UCAM3_MACRO_H_ */
