@@ -1,7 +1,0 @@
-../UserLibs/LSM6DS3/LSM6DS3.c:7:6:LSM6DS3_CS_Prepare	8	static
-../UserLibs/LSM6DS3/LSM6DS3.c:11:9:LSM6DS3_Init	16	static
-../UserLibs/LSM6DS3/LSM6DS3.c:32:6:LSM6DS3_GetData	32	static
-../UserLibs/LSM6DS3/LSM6DS3.c:101:6:LSM6DS3_AccelConvert	24	static
-../UserLibs/LSM6DS3/LSM6DS3.c:108:6:LSM6DS3_GyroConvert	24	static
-../UserLibs/LSM6DS3/LSM6DS3.c:122:9:LSM6DS3_ReadRegister	16	static
-../UserLibs/LSM6DS3/LSM6DS3.c:127:6:LSM6DS3_WriteRegister	16	static

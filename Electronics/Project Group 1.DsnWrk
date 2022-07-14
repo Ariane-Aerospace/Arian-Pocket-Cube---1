@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=On-board-computer\APC1_OBC.PrjPcb
+[Project2]
+ProjectPath=Sensors\APC1_Sensors.PrjPcb
+[Project3]
+ProjectPath=Wireless\APC1_Wireless.PrjPcb
+[Project4]
+ProjectPath=Electrical-Power-System\APC1_EPS.PrjPcb

@@ -1,2 +1,0 @@
-../Drivers/UCAM3/UCAM3_port.c:8:6:UCAM3_Transmit	16	static
-../Drivers/UCAM3/UCAM3_port.c:13:9:UCAM3_Receive	24	static

@@ -1,3 +1,0 @@
-../UserLibs/LSM6DS3/LSM6DS3_port.c:4:6:LSM6DS3_USER_CS_Activate	8	static
-../UserLibs/LSM6DS3/LSM6DS3_port.c:9:6:LSM6DS3_USER_CS_Deactivate	8	static
-../UserLibs/LSM6DS3/LSM6DS3_port.c:13:9:LSM6DS3_USER_SPI_RxTx	32	static

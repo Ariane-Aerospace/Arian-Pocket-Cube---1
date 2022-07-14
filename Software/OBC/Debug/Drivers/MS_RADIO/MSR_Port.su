@@ -1,3 +1,0 @@
-../Drivers/MS_RADIO/MSR_Port.c:8:6:__MSR_USER_CS_Low	8	static
-../Drivers/MS_RADIO/MSR_Port.c:12:6:__MSR_USER_CS_High	8	static
-../Drivers/MS_RADIO/MSR_Port.c:16:6:__MSR_USER_SPI_TxRx	32	static

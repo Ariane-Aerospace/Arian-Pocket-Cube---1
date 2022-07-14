@@ -1,3 +1,0 @@
-../Drivers/MS5607/MS5607.c:8:9:MS5607_Init	24	static
-../Drivers/MS5607/MS5607.c:21:6:MS5607_GetData	32	static
-../Drivers/MS5607/MS5607.c:51:6:MS5607_GetPres	32	static

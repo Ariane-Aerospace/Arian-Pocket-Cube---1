@@ -1,9 +1,0 @@
-../UserLibs/DS18B20/DS18B20.c:16:9:DS18_Init	16	static
-../UserLibs/DS18B20/DS18B20.c:46:9:DS18_StartConv	16	static
-../UserLibs/DS18B20/DS18B20.c:61:9:DS18_GetData	48	static
-../UserLibs/DS18B20/DS18B20.c:82:7:DS18_TempConvert	16	static
-../UserLibs/DS18B20/DS18B20.c:90:6:DS18_WriteBit	16	static
-../UserLibs/DS18B20/DS18B20.c:100:6:DS18_WriteByte	24	static
-../UserLibs/DS18B20/DS18B20.c:108:9:DS18_ReadBit	8	static
-../UserLibs/DS18B20/DS18B20.c:117:9:DS18_ReadByte	16	static
-../UserLibs/DS18B20/DS18B20.c:130:9:DS18_ResetPulse_sens_detect	16	static
